@@ -7,7 +7,7 @@ We write songs, cues, instrumentals, and other styles for publishers, film & TV,
 
 #### Why we are here
 
-My background is in high tech, reliability engineering in particular. So when I started Catamount Music with my partner, I realized I had a chance
+Dave's background is in high tech, reliability engineering in particular. So when we started Catamount Music, he realized we had a chance
 to use GitHub and other tools in the business. We use GitHub to store branding, lyrics, songs, and other assets.
 
 We also have a public repo cleverly named [Public Domain](https://github.com/catamount-music/public-domain). 
