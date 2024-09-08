@@ -11,7 +11,7 @@ Dave's background is in high tech, reliability engineering in particular. So whe
 to use GitHub and other tools in the business. We use GitHub to store branding, lyrics, songs, and other assets.
 
 We also have a public repo cleverly named [public-domain](https://github.com/catamount-music/public-domain). 
-This repo is where we put things that we wish to distribute without restrictions. It contains things we use on a daily basis to help
+This repo is where we put things that we wish to distribute without restrictions other than attribution. It contains things we use on a daily basis to help
 create and public music, as well as any assets we reference in our blogs.
 
 ### Contact
